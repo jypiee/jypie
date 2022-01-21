@@ -1,5 +1,5 @@
-<!--# jypie-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=fff7de&height=150&section=header&text=JYPIE&animation=fadeIn&fontColor=5E5E5E&fontSize=40&fontAlignY=30)
+# jypie
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=fff7de&height=150&section=header&text=JYPIE&animation=fadeIn&fontColor=5E5E5E&fontSize=40&fontAlignY=30)-->
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
