@@ -2,10 +2,12 @@
 
 ### About Me
 
-<ul>
-    <li>I am a  developer who has grown through diverse experiences.</li>
-    <li>I am a developer who enjoys embracing new challenges for personal growth.</li>
-</ul>
+<p>
+Hi there! Thank you for your interest!<br />
+I'm a developer who delights in embracing new challenges and always strives for personal growth.<br />
+I have a keen interest in improving user experiences through my efforts.<br />
+Looking forward to working together!
+</p>
 <a href="https://www.instagram.com/jypie/"><img src="https://img.shields.io/badge/JYPIE-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 <br /><br />
 
