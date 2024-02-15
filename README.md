@@ -7,7 +7,7 @@
     <li>I am a developer who enjoys embracing new challenges for personal growth.</li>
 </ul>
 <a href="https://www.instagram.com/jypie/"><img src="https://img.shields.io/badge/JYPIE-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-<br />
+<br /><br />
 
 ### Tech Stacks
 #### - Frontend
